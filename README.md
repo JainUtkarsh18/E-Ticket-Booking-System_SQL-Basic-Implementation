@@ -6,7 +6,7 @@
 - [Technology Stack](#TechnologyStack) 
 - [Installation](#Installation)
 - [Run the Application](#RuntheApplication)
-- [Usage](#Usage) 
+- [Usage](#Usage)  
 - [Contributions](#Contributions)  
 - [License](#License)   
 
