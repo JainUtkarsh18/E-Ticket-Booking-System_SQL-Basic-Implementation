@@ -2,7 +2,7 @@
 
 ## Table of Contents  
 - [Overview](#Overview)   
-- [Features](#Features) 
+- [Features](#Features)  
 - [Technology Stack](#TechnologyStack) 
 - [Installation](#Installation)
 - [Run the Application](#RuntheApplication)
