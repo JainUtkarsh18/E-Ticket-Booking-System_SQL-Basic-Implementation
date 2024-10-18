@@ -7,7 +7,7 @@
 - [Installation](#Installation)
 - [Run the Application](#RuntheApplication)
 - [Usage](#Usage)   
-- [Contributions](#Contributions)  
+- [Contributions](#Contributions)   
 - [License](#License)    
  
 ## Overview
