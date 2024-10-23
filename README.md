@@ -5,7 +5,7 @@
 - [Features](#Features)   
 - [Technology Stack](#TechnologyStack)   
 - [Installation](#Installation)
-- [Run the Application](#RuntheApplication)
+- [Run the Application](#RuntheApplication) 
 - [Usage](#Usage)   
 - [Contributions](#Contributions)   
 - [License](#License)    
