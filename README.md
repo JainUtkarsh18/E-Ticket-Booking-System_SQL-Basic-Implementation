@@ -1,7 +1,7 @@
 # E-Ticket-Booking-System_SQL-Basic-Implementation 
  
 ## Table of Contents    
-- [Overview](#Overview)   
+- [Overview](#Overview)    
 - [Features](#Features)    
 - [Technology Stack](#TechnologyStack)       
 - [Installation](#Installation)  
