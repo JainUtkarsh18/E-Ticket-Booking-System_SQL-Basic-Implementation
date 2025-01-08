@@ -3,7 +3,7 @@
 ## Table of Contents    
 - [Overview](#Overview)    
 - [Features](#Features)    
-- [Technology Stack](#TechnologyStack)         
+- [Technology Stack](#TechnologyStack)          
 - [Installation](#Installation)   
 - [Run the Application](#RuntheApplication)      
 - [Usage](#Usage)     
